@@ -4,9 +4,7 @@
 
 This repository contains an Amazon Clone with React, Tailwind CSS and Redux.
 
-## YouTube
 
-[Watch the Tutorial](https://youtu.be/pnnblIo1iO0)
 
 ## Features
 
